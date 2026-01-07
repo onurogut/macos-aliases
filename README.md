@@ -15,6 +15,8 @@ spike 8080
 📍 Dosya Yolu: /Users/onurogut/ornek/app.py
 --------------------------------------------------
 ```
+<img width="736" height="314" alt="image" src="https://github.com/user-attachments/assets/6d822c57-ebac-43f6-a9c8-143bf7ce720f" />
+
 
 ## 🔧 Kurulum
 
